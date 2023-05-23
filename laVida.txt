@@ -1,0 +1,2 @@
+esta es la vida misma
+para añadir el archivo a Git hay que hacerlo con git add, sino no se va a agregar al repositorio
