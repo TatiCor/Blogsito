@@ -1,0 +1,102 @@
+/* Estilos CSS para el blog post */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #6c60d18a, #642143bf);
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.post-content {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.post-date {
+  color: #888;
+  font-style: italic;
+}
+
+/* Estilos Flexbox */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+article {
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  color: #333;
+  transition: box-shadow 0.3s ease;
+}
+
+/* Estilos para el header */
+header {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Estilos para el footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+footer p {
+  color: #fff;
+}
+
+/* Transparencias */
+.css-opacity {
+  background: #000000;
+  border: solid #bdbdbd 1px;
+  opacity: 0.2;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=19); /* For IE8 */
+  filter: alpha(opacity=19); /* For IE5-7 */
+}
+
+/* Estilos para los hoovers */
+nav ul li a:hover {
+  color: #fff;
+}
+
+
