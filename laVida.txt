@@ -6,3 +6,5 @@ Usé git reset --hard y borré los commits que había creado. I
 Es una forma muy agresiva de volver a versiones anteriores, porque te elimina todo.
 
 Bueno ahora nuevamente agrego la historia de Tatiana, la chica que es abogada, trabaja hace dos años en un estudio jurídico y siente burnout.
+
+Esto tuve que volver a escribirlo porque usé el comando git reset --hard y borré los commits creados, pero buneo ahora tengo un blog creado con html / css. Amazing!
