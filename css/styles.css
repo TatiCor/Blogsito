@@ -69,6 +69,7 @@ nav ul li a {
   color: #fff;
 }
 
+
 /* Estilos para el footer */
 footer {
   position: fixed;
@@ -96,7 +97,7 @@ footer p {
 
 /* Estilos para los hoovers */
 nav ul li a:hover {
-  color: #fff;
+  color: #e71414;
 }
 
 /* Animación al hacer hover sobre los artículos */
