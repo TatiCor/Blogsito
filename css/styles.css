@@ -68,9 +68,7 @@ nav ul li a {
   text-decoration: none;
   color: #fff;
 }
-nav ul li a:hover {
-  color: rgb(127, 178, 255);
-}
+
 
 /* Estilos para el footer */
 footer {
@@ -99,7 +97,7 @@ footer p {
 
 /* Estilos para los hoovers */
 nav ul li a:hover {
-  color: #fff;
+  color: #e71414;
 }
 
 
