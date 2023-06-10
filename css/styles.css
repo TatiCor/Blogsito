@@ -105,3 +105,39 @@ article:hover {
   background-color: #e8e4eb;
   box-shadow: -8px 6px 4px 1px rgba(11, 7, 253, 0.295);
 }
+
+/* Estilos para el footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+footer p {
+  color: #fff;
+}
+
+/* Transparencias */
+.css-opacity {
+  background: #000000;
+  border: solid #bdbdbd 1px;
+  opacity: 0.2;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=19); /* For IE8 */
+  filter: alpha(opacity=19); /* For IE5-7 */
+}
+
+/* Estilos para los hoovers */
+nav ul li a:hover {
+  color: #e71414;
+}
+
+/* Animación al hacer hover sobre los artículos */
+article:hover {
+  background-color: #e8e4eb;
+  box-shadow: -8px 6px 4px 1px rgba(11, 7, 253, 0.295);
+}
