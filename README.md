@@ -1,4 +1,4 @@
-#Blogsito 💚
+# Blogsito 💚
 - Creado en el marco del curso profesional Git y Github de Platzi.
 - Este README.md es simplemente una práctica para mejorar mis habilidades.
 
