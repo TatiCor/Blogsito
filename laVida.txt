@@ -5,6 +5,11 @@ para que se guarde en el repositorio hay que usar git commit.
 Usé git reset --hard y borré los commits que había creado. I
 Es una forma muy agresiva de volver a versiones anteriores, porque te elimina todo.
 
+<<<<<<< HEAD
 Bueno ahora nuevamente agrego la historia de Anita, la chica que es abogada, trabaja hace dos años en un estudio jurídico y siente burnout.
+=======
+>>>>>>> f45c67a (experimento 1 Git Rebase)
 
 Esto tuve que volver a escribirlo porque usé el comando git reset --hard y borré los commits creados, pero buneo ahora tengo un blog creado con html / css. Amazing!
+
+Experimentando Git Rebase :) V.1
